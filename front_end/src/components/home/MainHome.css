@@ -1,0 +1,23 @@
+#SignUp{
+    margin-left: 350px;
+    background-color: rgb(68, 78, 221);
+}
+#main-nav-bar{
+    background-image: url("../images/stock4.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80px;
+}
+#signInChoice:hover{
+    color: rgb(18, 145, 230);
+}
+#imageHome{
+    position: relative;
+    text-align: center;
+}
+#signInDrop{
+    padding-left: 50px;
+}
+#stock{
+    height: 700px;
+}

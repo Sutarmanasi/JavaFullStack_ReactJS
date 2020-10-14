@@ -1,0 +1,30 @@
+#contactForm{
+    margin-left: 350px;
+    margin-top: 150px;
+    width: 400px;
+    text-align: center;
+    color: rgb(202, 197, 197);
+    box-shadow: 5px 5px 5px 5px #d4d3d3;
+    padding-left: 2px;
+    padding-bottom: 50px;
+}
+#contact{
+    margin-left: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: black;
+    background-image: url("../images/stock4.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#contactDiv{
+    margin-top: 50px;
+}
+#inputfield{
+    margin-left: 70px;
+}
+#submitfield{
+    margin-right: 10px;
+    padding: 10px 80px;
+    border-radius: 8px;
+}

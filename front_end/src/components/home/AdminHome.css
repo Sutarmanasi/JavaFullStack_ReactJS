@@ -1,0 +1,52 @@
+.sidebar {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    z-index: 100;
+    padding: 70px 0 0 10px;
+    border-right: 1px solid #d3d3d3;
+}
+  
+.left-sidebar {
+    padding-top: 30px;
+    position: sticky;
+    top:0;
+    height: calc(100vh - 70px)
+}
+  
+.sidebar-nav li .nav-link {
+    color: #333;
+    font-weight: 500;
+}
+
+#companyChoice:hover, #investorChoice:hover{
+    color: rgb(0, 119, 255);
+}
+
+#companyDropDown:hover, #investorDropDown:hover{
+    color: rgb(0, 119, 255);
+}
+h1,h4{
+    margin-top: 50px;
+    margin-left: 300px;
+}
+hr{
+    opacity: 0.8;
+}
+
+#dashboard{
+    background-image: url("../images/stock4.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80px;
+}
+#companyTable{
+    margin-left: 300px;
+}
+#investorTable{
+    margin-left: 300px;
+}
+h3{
+    margin-left: 300px;
+}
